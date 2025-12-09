@@ -74,7 +74,7 @@ CineSense/
 ```bash
 git clone https://github.com/your-username/cinesense.git
 cd cinesense
-
+---
 Author
 
 V Priyadharshini 
