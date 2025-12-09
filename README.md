@@ -74,8 +74,8 @@ CineSense/
 ```bash
 git clone https://github.com/your-username/cinesense.git
 cd cinesense
----
-Author
 
+
+AUTHOR
 V Priyadharshini 
 💼 CSE Student | AI & Full-Stack Enthusiast
