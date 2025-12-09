@@ -72,7 +72,7 @@ CineSense/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone [https://github.com/your-username/cinesense.git](https://github.com/VPriya100code/CineSense.git)
+git clone https://github.com/VPriya100code/CineSense.git
 cd cinesense
 
 
